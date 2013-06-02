@@ -1,2 +1,2 @@
-gcf
+Global Cloud Foundry
 ===
